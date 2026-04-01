@@ -1,20 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
-namespace Assignment3
+namespace Assignment_3
 {
     class Student
     {
-        private int rollNo;
-        private string name;
-        private string studentClass;
-        private int semester;
-        private string branch;
-        private int[] marks = new int[5];
+        protected int rollNo;
+        protected string name;
+        protected string studentClass;
+        protected int semester;
+        protected string branch;
 
+       
         public Student(int rNo, string sName, string sClass, int sem, string br)
         {
             rollNo = rNo;
@@ -22,6 +18,26 @@ namespace Assignment3
             studentClass = sClass;
             semester = sem;
             branch = br;
+        }
+
+        public void DisplayData()
+        {
+            Console.WriteLine("\n--- Student Details ---");
+            Console.WriteLine("Roll No: " + rollNo);
+            Console.WriteLine("Name: " + name);
+            Console.WriteLine("Class: " + studentClass);
+            Console.WriteLine("Semester: " + semester);
+            Console.WriteLine("Branch: " + branch);
+        }
+    }
+
+    class Result : Student
+    {
+        private int[] marks = new int[5];
+
+        public Result(int rNo, string sName, string sClass, int sem, string br)
+            : base(rNo, sName, sClass, sem, br)
+        {
         }
 
         public void GetMarks()
@@ -33,6 +49,7 @@ namespace Assignment3
                 marks[i] = Convert.ToInt32(Console.ReadLine());
             }
         }
+
         public void DisplayResult()
         {
             int total = 0;
@@ -41,21 +58,20 @@ namespace Assignment3
             for (int i = 0; i < 5; i++)
             {
                 if (marks[i] < 35)
-                {
                     fail = true;
-                }
+
                 total += marks[i];
             }
 
-            double average = total / 5.0;
+            double avg = total / 5.0;
 
-            Console.WriteLine("\nAverage Marks: " + average);
+            Console.WriteLine("\nAverage: " + avg);
 
             if (fail)
             {
-                Console.WriteLine("Result: Failed (One or more subjects < 35)");
+                Console.WriteLine("Result: Failed (Subject < 35)");
             }
-            else if (average < 50)
+            else if (avg < 50)
             {
                 Console.WriteLine("Result: Failed (Average < 50)");
             }
@@ -65,14 +81,9 @@ namespace Assignment3
             }
         }
 
-        public void DisplayData()
+        public void ShowFullData()
         {
-            Console.WriteLine("\n--- Student Details ---");
-            Console.WriteLine("Roll No: " + rollNo);
-            Console.WriteLine("Name: " + name);
-            Console.WriteLine("Class: " + studentClass);
-            Console.WriteLine("Semester: " + semester);
-            Console.WriteLine("Branch: " + branch);
+            DisplayData();
 
             Console.WriteLine("Marks:");
             for (int i = 0; i < 5; i++)
@@ -86,11 +97,11 @@ namespace Assignment3
     {
         static void Main(string[] args)
         {
-            Student s1 = new Student(101, "Arun", "BCA", 3, "Computer Science");
+            Result s = new Result(101, "Arun", "BCA", 3, "CS");
 
-            s1.GetMarks();
-            s1.DisplayData();
-            s1.DisplayResult();
+            s.GetMarks();
+            s.ShowFullData();
+            s.DisplayResult();
 
             Console.ReadLine();
         }
