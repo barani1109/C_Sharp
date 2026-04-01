@@ -1,21 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
-namespace Assignment3
+namespace Assignment_3
 {
-    class SaleDetails
+    class Sale
     {
-        private int salesNo;
-        private int productNo;
-        private double price;
-        private int qty;
-        private DateTime dateOfSale;
-        private double totalAmount;
+        protected int salesNo;
+        protected int productNo;
+        protected double price;
+        protected int qty;
+        protected DateTime dateOfSale;
 
-        public SaleDetails(int sNo, int pNo, double pr, int quantity, DateTime date)
+        public Sale(int sNo, int pNo, double pr, int quantity, DateTime date)
         {
             salesNo = sNo;
             productNo = pNo;
@@ -23,6 +18,18 @@ namespace Assignment3
             qty = quantity;
             dateOfSale = date;
         }
+    }
+
+    class SaleDetails : Sale
+    {
+        private double totalAmount;
+
+       
+        public SaleDetails(int sNo, int pNo, double pr, int quantity, DateTime date)
+            : base(sNo, pNo, pr, quantity, date)
+        {
+        }
+
         public void Sales()
         {
             totalAmount = qty * price;
@@ -44,9 +51,11 @@ namespace Assignment3
     {
         static void Main(string[] args)
         {
-            SaleDetails sale = new SaleDetails(1, 101, 500, 3, DateTime.Now);
-            sale.Sales();
-            SaleDetails.ShowData(sale);
+            SaleDetails s = new SaleDetails(1, 101, 500, 3, DateTime.Now);
+
+            s.Sales();
+            SaleDetails.ShowData(s);
+
             Console.ReadLine();
         }
     }
