@@ -1,0 +1,16 @@
+C:\2026\Assignment\C_Sharp\Assignments\Assignments\bin\Debug\Assignments.exe.config
+C:\2026\Assignment\C_Sharp\Assignments\Assignments\bin\Debug\Assignments.exe
+C:\2026\Assignment\C_Sharp\Assignments\Assignments\bin\Debug\Assignments.pdb
+C:\2026\Assignment\C_Sharp\Assignments\Assignments\obj\Debug\Assignments.csproj.AssemblyReference.cache
+C:\2026\Assignment\C_Sharp\Assignments\Assignments\obj\Debug\Assignments.csproj.CoreCompileInputs.cache
+C:\2026\Assignment\C_Sharp\Assignments\Assignments\obj\Debug\Assignments.exe
+C:\2026\Assignment\C_Sharp\Assignments\Assignments\obj\Debug\Assignments.pdb
+C:\2026\Assignment\C_Sharp\Assignments\Assignments\obj\Debug\Assignments.exe.config
+C:\2026\Training\C_Sharp\Assignments\Assignment1\bin\Debug\Assignments.exe.config
+C:\2026\Training\C_Sharp\Assignments\Assignment1\bin\Debug\Assignments.exe
+C:\2026\Training\C_Sharp\Assignments\Assignment1\bin\Debug\Assignments.pdb
+C:\2026\Training\C_Sharp\Assignments\Assignment1\obj\Debug\Assignments.csproj.AssemblyReference.cache
+C:\2026\Training\C_Sharp\Assignments\Assignment1\obj\Debug\Assignments.exe.config
+C:\2026\Training\C_Sharp\Assignments\Assignment1\obj\Debug\Assignments.csproj.CoreCompileInputs.cache
+C:\2026\Training\C_Sharp\Assignments\Assignment1\obj\Debug\Assignments.exe
+C:\2026\Training\C_Sharp\Assignments\Assignment1\obj\Debug\Assignments.pdb

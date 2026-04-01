@@ -1,0 +1,12 @@
+C:\2026\Training\C_Sharp\Assignments\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\2026\Training\C_Sharp\Assignments\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\2026\Training\C_Sharp\Assignments\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\2026\Training\C_Sharp\Assignments\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\2026\Training\C_Sharp\Assignments\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\2026\Training\C_Sharp\Assignments\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\2026\Training\C_Sharp\Assignments\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\2026\Training\C_Sharp\Assignments\Assignment2\Assignment2\obj\Debug\Assignment2.exe.config
+C:\2026\Training\C_Sharp\Assignments\Assignment2\bin\Debug\Assignment2.exe.config
+C:\2026\Training\C_Sharp\Assignments\Assignment2\bin\Debug\Assignment2.exe
+C:\2026\Training\C_Sharp\Assignments\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\2026\Training\C_Sharp\Assignments\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
