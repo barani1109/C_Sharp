@@ -1,32 +1,54 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment3
+namespace Assignment_3
 {
+
     class Accounts
     {
-        private int accountNo;
-        private string customerName;
-        private string accountType;
-        private char transactionType;
-        private double amount;
-        private double balance;
+        protected int accountNo;
+        protected string customerName;
+        protected string accountType;
+        protected double balance;
 
-        public Accounts(int accNo, string name, string accType, double initialBalance)
+        public Accounts(int accNo, string name, string accType, double bal)
         {
             accountNo = accNo;
             customerName = name;
             accountType = accType;
-            balance = initialBalance;
+            balance = bal;
+        }
+
+        
+        public void ShowData(char tType, double amt)
+        {
+            Console.WriteLine("\n--- Account Details ---");
+            Console.WriteLine("Account No: " + accountNo);
+            Console.WriteLine("Customer Name: " + customerName);
+            Console.WriteLine("Account Type: " + accountType);
+            Console.WriteLine("Transaction Type: " + tType);
+            Console.WriteLine("Amount: " + amt);
+            Console.WriteLine("Balance: " + balance);
+        }
+    }
+
+    class Transaction : Accounts
+    {
+        private char transactionType;
+        private double amount;
+
+        public Transaction(int accNo, string name, string accType, double bal)
+            : base(accNo, name, accType, bal)
+        {
         }
 
         public void Credit(double amt)
         {
             balance += amt;
-            Console.WriteLine("Amount Deposited: " + amt);
+            Console.WriteLine("Deposited: " + amt);
         }
 
         public void Debit(double amt)
@@ -34,42 +56,26 @@ namespace Assignment3
             if (amt <= balance)
             {
                 balance -= amt;
-                Console.WriteLine("Amount Withdrawn: " + amt);
+                Console.WriteLine("Withdrawn: " + amt);
             }
             else
             {
                 Console.WriteLine("Insufficient Balance!");
             }
         }
-
-        public void ProcessTransaction(char transType, double amt)
+        public void ProcessTransaction(char tType, double amt)
         {
-            transactionType = transType;
+            transactionType = tType;
             amount = amt;
 
-            if (transactionType == 'D' || transactionType == 'd')
-            {
-                Credit(amount);
-            }
-            else if (transactionType == 'W' || transactionType == 'w')
-            {
-                Debit(amount);
-            }
+            if (tType == 'D' || tType == 'd')
+                Credit(amt);
+            else if (tType == 'W' || tType == 'w')
+                Debit(amt);
             else
-            {
-                Console.WriteLine("Invalid Transaction Type!");
-            }
-        }
+                Console.WriteLine("Invalid Transaction!");
 
-        public void ShowData()
-        {
-            Console.WriteLine("\n--- Account Details ---");
-            Console.WriteLine("Account No: " + accountNo);
-            Console.WriteLine("Customer Name: " + customerName);
-            Console.WriteLine("Account Type: " + accountType);
-            Console.WriteLine("Transaction Type: " + transactionType);
-            Console.WriteLine("Amount: " + amount);
-            Console.WriteLine("Balance: " + balance);
+            ShowData(transactionType, amount);
         }
     }
 
@@ -77,13 +83,10 @@ namespace Assignment3
     {
         static void Main(string[] args)
         {
-            Accounts acc = new Accounts(1001, "Rahul", "Savings", 5000);
+            Transaction t = new Transaction(101, "Arun", "Savings", 5000);
 
-            acc.ProcessTransaction('D', 2000);
-            acc.ShowData();
-
-            acc.ProcessTransaction('W', 1500);
-            acc.ShowData();
+            t.ProcessTransaction('D', 2000);
+            t.ProcessTransaction('W', 1500);
 
             Console.ReadLine();
         }
