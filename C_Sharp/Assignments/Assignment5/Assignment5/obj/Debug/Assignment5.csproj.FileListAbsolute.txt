@@ -1,0 +1,8 @@
+C:\2026\Training\C_Sharp\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.AssemblyReference.cache
+C:\2026\Training\C_Sharp\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\2026\Training\C_Sharp\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\2026\Training\C_Sharp\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\2026\Training\C_Sharp\Assignments\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\2026\Training\C_Sharp\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\2026\Training\C_Sharp\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\2026\Training\C_Sharp\Assignments\Assignment5\Assignment5\obj\Debug\Assignment5.exe.config
