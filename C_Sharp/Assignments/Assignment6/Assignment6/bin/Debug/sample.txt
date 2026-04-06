@@ -1,0 +1,5 @@
+Welcome to C#
+File Handling Example
+Write and Read File
+Assignment 6 - Question 2
+End of File

@@ -1,0 +1,5 @@
+Welcome to C#
+File Handling Example
+Counting number of lines
+Assignment 6 Question 3
+End of File

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026\\Training\\C_Sharp\\Assignments\\Assignment6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1D2F55-2D53-40EF-BD1A-EF6B9C63E4CA}|Assignment6\\Assignment6.csproj|c:\\2026\\training\\c_sharp\\assignments\\assignment6\\assignment6\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1D2F55-2D53-40EF-BD1A-EF6B9C63E4CA}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1D2F55-2D53-40EF-BD1A-EF6B9C63E4CA}|Assignment6\\Assignment6.csproj|c:\\2026\\training\\c_sharp\\assignments\\assignment6\\assignment6\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1D2F55-2D53-40EF-BD1A-EF6B9C63E4CA}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1D2F55-2D53-40EF-BD1A-EF6B9C63E4CA}|Assignment6\\Assignment6.csproj|c:\\2026\\training\\c_sharp\\assignments\\assignment6\\assignment6\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1D2F55-2D53-40EF-BD1A-EF6B9C63E4CA}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question3.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\C_Sharp\\Assignments\\Assignment6\\Assignment6\\Question3.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Question3.cs",
+              "ToolTip": "C:\\2026\\Training\\C_Sharp\\Assignments\\Assignment6\\Assignment6\\Question3.cs",
+              "RelativeToolTip": "Assignment6\\Question3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:44:14.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question2.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\C_Sharp\\Assignments\\Assignment6\\Assignment6\\Question2.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Question2.cs",
+              "ToolTip": "C:\\2026\\Training\\C_Sharp\\Assignments\\Assignment6\\Assignment6\\Question2.cs",
+              "RelativeToolTip": "Assignment6\\Question2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:57:36.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question1.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\C_Sharp\\Assignments\\Assignment6\\Assignment6\\Question1.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Question1.cs",
+              "ToolTip": "C:\\2026\\Training\\C_Sharp\\Assignments\\Assignment6\\Assignment6\\Question1.cs",
+              "RelativeToolTip": "Assignment6\\Question1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:51:51.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
