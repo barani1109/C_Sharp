@@ -1,0 +1,8 @@
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge2\CodeChallenge2\bin\Debug\CodeChallenge2.exe.config
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge2\CodeChallenge2\bin\Debug\CodeChallenge2.exe
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge2\CodeChallenge2\bin\Debug\CodeChallenge2.pdb
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.csproj.AssemblyReference.cache
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.csproj.CoreCompileInputs.cache
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.exe
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.pdb
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.exe.config
