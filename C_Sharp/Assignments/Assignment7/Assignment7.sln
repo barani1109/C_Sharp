@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment7", "Assignment7\Assignment7.csproj", "{81139DE3-8A79-43DD-8165-ED8021DE23FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel", "Travel\Travel.csproj", "{3FC8C2E6-CB70-476D-BCDE-CD0504095410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81139DE3-8A79-43DD-8165-ED8021DE23FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81139DE3-8A79-43DD-8165-ED8021DE23FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81139DE3-8A79-43DD-8165-ED8021DE23FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81139DE3-8A79-43DD-8165-ED8021DE23FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC8C2E6-CB70-476D-BCDE-CD0504095410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC8C2E6-CB70-476D-BCDE-CD0504095410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC8C2E6-CB70-476D-BCDE-CD0504095410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC8C2E6-CB70-476D-BCDE-CD0504095410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7038C0DA-2F45-43F1-AD0E-648475E5498B}
+	EndGlobalSection
+EndGlobal
