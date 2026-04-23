@@ -1,0 +1,8 @@
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\LINQqueries\bin\Debug\LINQqueries.exe.config
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\LINQqueries\bin\Debug\LINQqueries.exe
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\LINQqueries\bin\Debug\LINQqueries.pdb
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\LINQqueries\obj\Debug\LINQqueries.csproj.AssemblyReference.cache
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\LINQqueries\obj\Debug\LINQqueries.csproj.CoreCompileInputs.cache
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\LINQqueries\obj\Debug\LINQqueries.exe
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\LINQqueries\obj\Debug\LINQqueries.pdb
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\LINQqueries\obj\Debug\LINQqueries.exe.config

@@ -1,0 +1,7 @@
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.AssemblyReference.cache
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+C:\2026\Training\C_Sharp\Assesments\CodeChallenge4\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
