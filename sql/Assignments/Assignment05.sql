@@ -83,7 +83,7 @@ begin
     if(@holidayname is not null)
     begin
         raiserror('due to %s you cannot manipulate data',16,1,@holidayname)
-        rollback
+       
     end
 end;
 
