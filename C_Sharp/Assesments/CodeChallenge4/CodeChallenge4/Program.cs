@@ -5,11 +5,11 @@ namespace CodeChallenge4
 {
     public class Program
     {
-        static void Main(string[] args)   // ✅ Entry point
+        static void Main(string[] args) 
         {
-            DistanceBL obj = UnityResolver.DIInjector();  // ✅ inside Main
+            DistanceBL obj = UnityResolver.DIInjector(); 
 
-            obj.Calculate();   // ✅ works
+            obj.Calculate(); 
 
             Console.ReadLine();
         }

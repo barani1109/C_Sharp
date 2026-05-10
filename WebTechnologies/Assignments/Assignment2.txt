@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>JavaScript Programs</title>
+</head>
+
+<body>
+
+<script>
+
+    // 1. Area of Triangle
+
+    let side1 = 5,
+        side2 = 6,
+        side3 = 7;
+
+    let semiPerimeter = (side1 + side2 + side3) / 2;
+
+    let triangleArea =
+        Math.sqrt(
+            semiPerimeter *
+            (semiPerimeter - side1) *
+            (semiPerimeter - side2) *
+            (semiPerimeter - side3)
+        );
+
+    console.log("Triangle Area is : " + triangleArea);
+
+
+
+    // 2. Star Pattern
+
+    console.log("Star Pattern");
+
+    for (let row = 1; row <= 5; row++) {
+
+        let stars = "";
+
+        for (let col = 1; col <= row; col++) {
+
+            stars += "* ";
+
+        }
+
+        console.log(stars);
+    }
+
+
+
+    // 3. Leap Year Check
+
+    let checkYear = 2024;
+
+    if ((checkYear % 4 == 0 && checkYear % 100 != 0) ||
+        (checkYear % 400 == 0)) {
+
+        console.log(checkYear + " is a Leap Year");
+
+    }
+    else {
+
+        console.log(checkYear + " is not a Leap Year");
+
+    }
+
+
+
+    // 4. Days Left Until Independence Day
+
+    let currentDate = new Date();
+
+    let presentYear = currentDate.getFullYear();
+
+    let august15 =
+        new Date(presentYear, 7, 15);
+
+    if (currentDate > august15) {
+
+        august15 =
+            new Date(presentYear + 1, 7, 15);
+
+    }
+
+    let timeDifference =
+        august15 - currentDate;
+
+    let remainingDays =
+        Math.ceil(timeDifference /
+        (1000 * 60 * 60 * 24));
+
+    console.log(
+        "Remaining days for Independence Day : "
+        + remainingDays
+    );
+
+</script>
+
+</body>
+</html>
