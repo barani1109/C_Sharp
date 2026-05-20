@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>jQuery Child Selector Example</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+
+            $("div > h1").css("background-color", "green");
+
+        });
+    </script>
+
+</head>
+
+<body>
+
+    <div>
+        <h1>This heading is selected</h1>
+        <h1>This heading is also selected</h1>
+        <h2>heading</h2>
+    </div>
+
+    <h1>outside div-hloo</h1>
+
+</body>
+</html>

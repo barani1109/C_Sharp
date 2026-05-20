@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Change Example</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+
+            $("input").change(function () {
+
+                $("body").append("<p>Input value has been changed</p>");
+
+            });
+
+        });
+    </script>
+
+</head>
+
+<body>
+
+    <h2>Enter something:</h2>
+    <input type="text" />
+
+</body>
+</html>
