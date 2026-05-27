@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\webtechnologies\\assessments\\codechallenge1\\codechallenge1\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|solutionrelative:codechallenge1\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\webtechnologies\\assessments\\codechallenge1\\codechallenge1\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|solutionrelative:codechallenge1\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\webtechnologies\\assessments\\codechallenge1\\codechallenge1\\question7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|solutionrelative:codechallenge1\\question7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\webtechnologies\\assessments\\codechallenge1\\codechallenge1\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|solutionrelative:codechallenge1\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6764E2C5-DDE4-458D-9943-A215ABE7A05A}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\webtechnologies\\assessments\\codechallenge1\\codechallenge1\\question5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question3.html",
+              "DocumentMoniker": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question3.html",
+              "RelativeDocumentMoniker": "CodeChallenge1\\Question3.html",
+              "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question3.html",
+              "RelativeToolTip": "CodeChallenge1\\Question3.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:51:54.934Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -69,22 +82,48 @@
               "RelativeDocumentMoniker": "CodeChallenge1\\Question5.html",
               "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question5.html",
               "RelativeToolTip": "CodeChallenge1\\Question5.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-05-20T07:00:15.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Question3.html",
-              "DocumentMoniker": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question3.html",
-              "RelativeDocumentMoniker": "CodeChallenge1\\Question3.html",
-              "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question3.html",
-              "RelativeToolTip": "CodeChallenge1\\Question3.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Question6.html",
+              "DocumentMoniker": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question6.html",
+              "RelativeDocumentMoniker": "CodeChallenge1\\Question6.html",
+              "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question6.html",
+              "RelativeToolTip": "CodeChallenge1\\Question6.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-20T06:51:54.934Z",
+              "WhenOpened": "2026-05-20T07:10:59.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question7.html",
+              "DocumentMoniker": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question7.html",
+              "RelativeDocumentMoniker": "CodeChallenge1\\Question7.html",
+              "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question7.html",
+              "RelativeToolTip": "CodeChallenge1\\Question7.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:27:58.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question8.html",
+              "DocumentMoniker": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question8.html",
+              "RelativeDocumentMoniker": "CodeChallenge1\\Question8.html",
+              "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question8.html",
+              "RelativeToolTip": "CodeChallenge1\\Question8.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:30:04.037Z",
               "EditorCaption": ""
             },
             {
@@ -95,48 +134,9 @@
               "RelativeDocumentMoniker": "CodeChallenge1\\Question2.html",
               "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question2.html",
               "RelativeToolTip": "CodeChallenge1\\Question2.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-05-20T06:49:42.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Question6.html",
-              "DocumentMoniker": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question6.html",
-              "RelativeDocumentMoniker": "CodeChallenge1\\Question6.html",
-              "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question6.html*",
-              "RelativeToolTip": "CodeChallenge1\\Question6.html*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-20T07:10:59.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Question7.html",
-              "DocumentMoniker": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question7.html",
-              "RelativeDocumentMoniker": "CodeChallenge1\\Question7.html",
-              "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question7.html*",
-              "RelativeToolTip": "CodeChallenge1\\Question7.html*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-20T07:27:58.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Question8.html",
-              "DocumentMoniker": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question8.html",
-              "RelativeDocumentMoniker": "CodeChallenge1\\Question8.html",
-              "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question8.html*",
-              "RelativeToolTip": "CodeChallenge1\\Question8.html*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-20T07:30:04.037Z",
               "EditorCaption": ""
             },
             {
@@ -147,7 +147,7 @@
               "RelativeDocumentMoniker": "CodeChallenge1\\Question1.html",
               "ToolTip": "C:\\2026\\Training\\WebTechnologies\\Assessments\\CodeChallenge1\\CodeChallenge1\\Question1.html",
               "RelativeToolTip": "CodeChallenge1\\Question1.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-05-20T06:45:09.251Z",
               "EditorCaption": ""
