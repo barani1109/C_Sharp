@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\menus\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\menus\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|c:\\2026\\training\\mini_project\\trainreservationsystem\\trainreservationsystem\\modules\\bookingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\modules\\bookingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\dal\\bookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\dal\\bookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\bal\\bookingbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\bal\\bookingbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\modules\\cancellationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\modules\\cancellationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\bal\\userbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\bal\\userbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\dal\\cancellationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\dal\\cancellationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\bal\\cancellationbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\bal\\cancellationbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\menus\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\menus\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\menus\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\menus\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\modules\\loginmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\modules\\loginmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\modules\\registrationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\modules\\registrationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\modules\\reportmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\modules\\reportmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\modules\\trainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\modules\\trainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\dal\\traindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\dal\\traindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\bal\\trainbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\bal\\trainbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\models\\cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\trainreservationsystem\\dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F7865-A329-412D-ABB7-310F985C3917}|TrainReservationSystem\\TrainReservationSystem.csproj|solutionrelative:trainreservationsystem\\dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CancellationBAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\BAL\\CancellationBAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\BAL\\CancellationBAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\BAL\\CancellationBAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\BAL\\CancellationBAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:43:56.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CancellationModule.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\CancellationModule.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Modules\\CancellationModule.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\CancellationModule.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Modules\\CancellationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:57:19.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginModule.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\LoginModule.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Modules\\LoginModule.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\LoginModule.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Modules\\LoginModule.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:54:10.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationModule.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\RegistrationModule.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Modules\\RegistrationModule.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\RegistrationModule.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Modules\\RegistrationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:55:20.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportModule.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\ReportModule.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Modules\\ReportModule.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\ReportModule.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Modules\\ReportModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:57:54.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingModule.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\BookingModule.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Modules\\BookingModule.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\BookingModule.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Modules\\BookingModule.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAGkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:56:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programs.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Menus\\Programs.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Menus\\Programs.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Menus\\Programs.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Menus\\Programs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:51:26.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Menus\\MainMenu.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Menus\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:47:34.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingBAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\BAL\\BookingBAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\BAL\\BookingBAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\BAL\\BookingBAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\BAL\\BookingBAL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:43:08.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserBAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\BAL\\UserBAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\BAL\\UserBAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\BAL\\UserBAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\BAL\\UserBAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:41:30.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingDAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\BookingDAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\DAL\\BookingDAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\BookingDAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\DAL\\BookingDAL.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:35:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CancellationDAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\CancellationDAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\DAL\\CancellationDAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\CancellationDAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\DAL\\CancellationDAL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:37:38.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Menus\\UserMenu.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Menus\\UserMenu.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Menus\\UserMenu.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Menus\\UserMenu.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:49:27.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Menus\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Menus\\AdminMenu.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Menus\\AdminMenu.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Menus\\AdminMenu.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:48:14.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrainModule.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\TrainModule.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Modules\\TrainModule.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Modules\\TrainModule.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Modules\\TrainModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:56:03.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Models\\User.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Models\\User.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:24:46.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Models\\Booking.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Models\\Booking.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:25:19.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\DAL\\UserDAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\UserDAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\DAL\\UserDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:31:56.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrainDAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\TrainDAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\DAL\\TrainDAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\TrainDAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\DAL\\TrainDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:33:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\DBHelper.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\DAL\\DBHelper.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\DBHelper.cs",
+              "RelativeToolTip": "TrainReservationSystem\\DAL\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:29:34.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrainBAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\BAL\\TrainBAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\BAL\\TrainBAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\BAL\\TrainBAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\BAL\\TrainBAL.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:42:26.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Models\\Train.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Models\\Train.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Models\\Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:24:57.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cancellation.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Models\\Cancellation.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\Models\\Cancellation.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\Models\\Cancellation.cs",
+              "RelativeToolTip": "TrainReservationSystem\\Models\\Cancellation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:25:43.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportDAL.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\ReportDAL.cs",
+              "RelativeDocumentMoniker": "TrainReservationSystem\\DAL\\ReportDAL.cs",
+              "ToolTip": "C:\\2026\\Training\\Mini_Project\\TrainReservationSystem\\TrainReservationSystem\\DAL\\ReportDAL.cs",
+              "RelativeToolTip": "TrainReservationSystem\\DAL\\ReportDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:38:29.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
