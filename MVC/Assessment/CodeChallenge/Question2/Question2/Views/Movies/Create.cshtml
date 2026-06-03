@@ -1,0 +1,46 @@
+﻿@model Question2.Models.Movie
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Add Movie</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Movie Id</label>
+        @Html.TextBoxFor(m => m.Mid)
+    </div>
+
+    <br />
+
+    <div>
+        <label>Movie Name</label>
+        @Html.TextBoxFor(m => m.MovieName)
+    </div>
+
+    <br />
+
+    <div>
+        <label>Director Name</label>
+        @Html.TextBoxFor(m => m.DirectorName)
+    </div>
+
+    <br />
+
+    <div>
+        <label>Date Of Release</label>
+        @Html.TextBoxFor(m => m.DateOfRelease,
+            "{0:yyyy-MM-dd}",
+            new { type = "date" })
+    </div>
+
+    <br />
+
+    <input type="submit" value="Save" />
+}
+
+<br />
+
+@Html.ActionLink("Back to List", "Index")

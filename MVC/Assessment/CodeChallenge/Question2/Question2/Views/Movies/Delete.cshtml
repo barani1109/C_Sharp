@@ -1,0 +1,32 @@
+﻿@model Question2.Models.Movie
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete Movie</h2>
+
+<h3>Are you sure you want to delete this movie?</h3>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <td>Movie Name</td>
+        <td>@Model.MovieName</td>
+    </tr>
+
+    <tr>
+        <td>Director Name</td>
+        <td>@Model.DirectorName</td>
+    </tr>
+</table>
+
+<br />
+
+@using (Html.BeginForm())
+{
+    <input type="submit" value="Delete" />
+}
+
+<br />
+
+@Html.ActionLink("Back to List", "Index")

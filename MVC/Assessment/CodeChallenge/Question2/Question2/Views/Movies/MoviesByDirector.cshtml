@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Question2.Models.Movie>
+
+@{
+    ViewBag.Title = "Movies By Director";
+}
+
+<h2>Movies Of Selected Director</h2>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Movie Name</th>
+        <th>Director Name</th>
+        <th>Date Of Release</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.MovieName</td>
+            <td>@item.DirectorName</td>
+            <td>@item.DateOfRelease.ToShortDateString()</td>
+        </tr>
+    }
+</table>
+
+<br />
+
+@Html.ActionLink("Back to List", "Index")
