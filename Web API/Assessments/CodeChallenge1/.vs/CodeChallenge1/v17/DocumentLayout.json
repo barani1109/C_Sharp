@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47421794-D6C7-43A7-80E5-6B49D50173B9}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\web api\\assessments\\codechallenge1\\codechallenge1\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47421794-D6C7-43A7-80E5-6B49D50173B9}|CodeChallenge1\\CodeChallenge1.csproj|solutionrelative:codechallenge1\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47421794-D6C7-43A7-80E5-6B49D50173B9}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\web api\\assessments\\codechallenge1\\codechallenge1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47421794-D6C7-43A7-80E5-6B49D50173B9}|CodeChallenge1\\CodeChallenge1.csproj|solutionrelative:codechallenge1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47421794-D6C7-43A7-80E5-6B49D50173B9}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\web api\\assessments\\codechallenge1\\codechallenge1\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47421794-D6C7-43A7-80E5-6B49D50173B9}|CodeChallenge1\\CodeChallenge1.csproj|solutionrelative:codechallenge1\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47421794-D6C7-43A7-80E5-6B49D50173B9}|CodeChallenge1\\CodeChallenge1.csproj|c:\\2026\\training\\web api\\assessments\\codechallenge1\\codechallenge1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47421794-D6C7-43A7-80E5-6B49D50173B9}|CodeChallenge1\\CodeChallenge1.csproj|solutionrelative:codechallenge1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 413,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\CodeChallenge1\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "CodeChallenge1\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\CodeChallenge1\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "CodeChallenge1\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:38:05.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\CodeChallenge1\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CodeChallenge1\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\CodeChallenge1\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CodeChallenge1\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:14:24.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\CodeChallenge1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CodeChallenge1\\Global.asax.cs",
+              "ToolTip": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\CodeChallenge1\\Global.asax.cs",
+              "RelativeToolTip": "CodeChallenge1\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:15:09.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\CodeChallenge1\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "CodeChallenge1\\Models\\Country.cs",
+              "ToolTip": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge1\\CodeChallenge1\\Models\\Country.cs",
+              "RelativeToolTip": "CodeChallenge1\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:36:57.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

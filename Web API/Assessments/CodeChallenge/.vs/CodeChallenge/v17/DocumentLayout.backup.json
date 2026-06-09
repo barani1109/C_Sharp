@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E88A-F716-46C3-BA4B-DFA24FACE2FD}|CodeChallenge\\CodeChallenge.csproj|c:\\2026\\training\\web api\\assessments\\codechallenge\\codechallenge\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E88A-F716-46C3-BA4B-DFA24FACE2FD}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E88A-F716-46C3-BA4B-DFA24FACE2FD}|CodeChallenge\\CodeChallenge.csproj|c:\\2026\\training\\web api\\assessments\\codechallenge\\codechallenge\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E88A-F716-46C3-BA4B-DFA24FACE2FD}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7631E88A-F716-46C3-BA4B-DFA24FACE2FD}|CodeChallenge\\CodeChallenge.csproj|c:\\2026\\training\\web api\\assessments\\codechallenge\\codechallenge\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7631E88A-F716-46C3-BA4B-DFA24FACE2FD}|CodeChallenge\\CodeChallenge.csproj|solutionrelative:codechallenge\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge\\CodeChallenge\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge\\CodeChallenge\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CodeChallenge\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T06:03:08.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge\\CodeChallenge\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge\\CodeChallenge\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "CodeChallenge\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:40:52.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge\\CodeChallenge\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CodeChallenge\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\2026\\Training\\Web API\\Assessments\\CodeChallenge\\CodeChallenge\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CodeChallenge\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:49:13.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
